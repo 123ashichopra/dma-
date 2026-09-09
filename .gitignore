@@ -1,0 +1,13 @@
+# Verilator generated files
+obj_dir/
+
+# Waveform dumps
+*.vcd
+
+# Simulation/build artifacts
+*.fst
+*.log
+
+# OS/editor files
+.DS_Store
+
